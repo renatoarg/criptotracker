@@ -2,6 +2,8 @@
 
 Cryptocurrency tracker app.
 
+https://github.com/user-attachments/assets/5551d1bb-4551-47c0-bbe6-9d8780c21e2e
+
 ## Environment
 - **Android Studio**: Android Studio Narwhal | 2025.1.1
 - **Compile SDK**: 36
